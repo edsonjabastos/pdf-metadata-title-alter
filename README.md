@@ -47,10 +47,3 @@ Ensure you have Python installed on your system. You can download it from [pytho
 
 ## License
 This project is released under the MIT License.
-
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:edsonjabastos/pdf-metadata-title-alter.git
-git push -u origin main
